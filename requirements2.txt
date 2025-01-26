@@ -1,0 +1,13 @@
+openai
+transformers
+trl
+peft
+datasets
+accelerate
+pybind11
+networkx
+graph-walker
+tqdm
+sentencepiece
+wandb
+deepspeed
